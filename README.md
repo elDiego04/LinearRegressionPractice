@@ -12,17 +12,17 @@ Practice implementation of supervised learning algorithms from scratch using Num
 - Predictions
 
 ## Project structure
-ml-practice/
-├── data/               # Datasets
-├── notebooks/          # Jupyter notebooks (exploration)
-├── src/                # Core algorithm implementations
-├── requirements.txt
+ml-practice/ <br>
+├── data/               # Datasets <br>
+├── notebooks/          # Jupyter notebooks (exploration) <br>
+├── src/                # Core algorithm implementations <br>
+├── requirements.txt <br>
 └── README.md
 
 ## Setup
-python -m venv venv
-venv\Scripts\activate        # Windows
-pip install -r requirements.txt
+python -m venv venv <br>
+venv\Scripts\activate        # Windows <br>
+pip install -r requirements.txt <br>
 
 ## Run notebooks
 jupyter notebook
